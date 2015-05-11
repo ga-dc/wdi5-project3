@@ -17,5 +17,7 @@ Will be in Classroom 2!
     - CSS Grids (Andy)
   - 3:00 - 4:00
     - Parsing strings with RegEx (Robin)
+- Thursday
+  - 11:00 - 12:00
     - Event Bubbling (Adam)
 
