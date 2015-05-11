@@ -1,5 +1,7 @@
 # Week 09 Mini-Lessons
 
+Will be in Classroom 2!
+
 - Monday
   - 3:00 - 4:00
     - Small steps, big progress (Matt)
