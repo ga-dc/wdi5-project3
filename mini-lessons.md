@@ -10,6 +10,7 @@ Will be in Classroom 2!
     - Auth w/ CanCanCan (Adam) 
   - 2:00 - 3:00
     - Login with OAuth (Jesse)
+    - [screencast](https://vimeo.com/127639066)
 - Wednesday
   - 11:00 - 12:00
     - Capybara (Adam) 
