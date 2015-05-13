@@ -28,6 +28,10 @@ https://github.com/ga-dc/wdidc5-project3
 
 On Monday you will meet individually with an instructor to review your progress. Have something to show them.
 
+#### Wednesday, Week 9
+
+We'll meet at 9:00am, as classes, for a stand-up to gauge progress.
+
 #### Friday, Week 9
 
 You will present your completed product. Presentations will be Science Fair-style, as with Project 1. 
@@ -38,3 +42,7 @@ You will present your completed product. Presentations will be Science Fair-styl
   - The projects must be individual. However, you are more than welcome to seek help and inspiration from your classmates and instructors.
 - I can't think of an idea!
   - To start off with, you might think of a problem you run into on a recurring basis, or a time you've found yourself thinking, "Man, I wish this existed," or, "Man, this is so inefficient." Necessity is the mother of invention. Many of the most popular apps and programs have been invented as a result of someone being ticked off by something that did or didn't exist. Feel free to ask your instructors for help!
+
+## Work schedule
+
+You are welcome to work outside of GA at your own pace this week. We will be meeting on *Wednesday at 9:00am* for a stand-up to gauge progress, after which you will be free to work as you please again. Keep in mind: if you know that you will be distracted working elsewhere, then work here. The instructors will be at GA each day from 8:30 to 5:30, as usual.
