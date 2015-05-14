@@ -14,7 +14,7 @@ This is your chance to be really creative and create something that's completely
 
 ## Checkpoints
 
-#### Friday, Week 8
+#### Due Friday, Week 8
 
 Write a brief overview of your current idea, and 5 corresponding user stories.
 
@@ -24,7 +24,7 @@ Finally, post the link to your repository as an issue on the wdidc5-project3 rep
 
 https://github.com/ga-dc/wdidc5-project3
 
-#### Monday, Week 9
+#### Due Monday, Week 9
 
 On Monday you will meet individually with an instructor to review your progress. Have something to show them.
 
