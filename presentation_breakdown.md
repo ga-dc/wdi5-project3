@@ -18,6 +18,7 @@
 - John
 - DJ
 - Zach
+
 ### 2:45 - 3:45
 - Biboy
 - Keith
@@ -33,6 +34,7 @@
 - Nic
 - Nick
 - Janice
+
 ### 4:00 - 5:00
 - Chad
 - Matt
