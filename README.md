@@ -34,7 +34,7 @@ We'll meet at 9:00am, as classes, for a stand-up to gauge progress.
 
 #### Friday, Week 9
 
-You will present your completed product. Presentations will be Science Fair-style, as with Project 1. 
+**Please be on-campus at 1:00pm.** You will present your completed product. Presentations will be Science Fair-style, as with Project 1. 
 
 ## Other 
 
