@@ -46,3 +46,4 @@ We'll meet at 9:00am, as classes, for a stand-up to gauge progress.
 ## Work schedule
 
 You are welcome to work outside of GA at your own pace this week. We will be meeting on *Wednesday at 9:00am* for a stand-up to gauge progress, after which you will be free to work as you please again. Keep in mind: if you know that you will be distracted working elsewhere, then work here. The instructors will be at GA each day from 8:30 to 5:30, as usual.
+

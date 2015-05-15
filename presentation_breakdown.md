@@ -2,6 +2,14 @@
 
 ## We'll be splitting both classrooms into 3 groups. Find your name below to know which time slot you've been assigned.
 
+## Things to talk about
+
+- What was easy? What was hard?
+- What are you proud of?
+- What you would do differently?
+- Next steps?
+- What functionality might viewers not find on their own?
+
 ### 1:30 - 2:30
 - Alif
 - Julia
